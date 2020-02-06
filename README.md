@@ -1,3 +1,3 @@
-<h1>Ni Practica</h1>
+<h1 style="color: red;">Mi Practica</h1>
 Practica
 
